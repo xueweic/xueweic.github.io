@@ -8,6 +8,6 @@ Email: [xc2270@cumc.columbia.edu](mailto:xc2270@cumc.columbia.edu)
 # My Research Interests
 * Statistical Genetics and Genomics
 * Biological Network Analysis
-* Functional Genome/Annotation Analysis.
+* Functional Genome/Annotation Analysis
 * Bayesian Modeling
 * Machine Learning
