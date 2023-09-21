@@ -1,7 +1,7 @@
 # Welcome to Xuewei Cao's Personal Website
 
 
-[Website Link](https://xueweic.github.io/)
+Redirect to My Personal Website [https://xueweic.github.io/](https://xueweic.github.io/)
 
 Email: [xc2270@cumc.columbia.edu](mailto:xc2270@cumc.columbia.edu)
 
