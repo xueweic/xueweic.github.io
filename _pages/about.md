@@ -22,4 +22,5 @@ I received my Ph.D. in statistics from Department of Mathematical Sciences at Mi
 * Bayesian Modeling
 * Machine Learning
 
-# Contact Email: (xc2270@cumc.columbia.edu)
+# Email: 
+[Contact me](mailto:xc2270@cumc.columbia.edu)
