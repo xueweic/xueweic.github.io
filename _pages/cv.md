@@ -9,11 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Professional Appointment
+======
+* Postdoctoral Research Scientist \\
+Center for Statistical Genetics in the Gertrude H. Sergievsky Center\\
+Department of Neurology, Columbia University\\
+Research direction: Fine-mapping and colocalization analysis, \textit{trans}-QTL network
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Statistics, Michigan Technological University, April 2023
+* M.S. in System Theory, Beijing Normal University, June 2018
+* B.S. in Statistics, Heilongjiang University, June 2015
+
 
 Work experience
 ======
