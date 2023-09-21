@@ -5,7 +5,7 @@ Redirect to My Personal Website [https://xueweic.github.io/](https://xueweic.git
 
 Email: [xc2270@cumc.columbia.edu](mailto:xc2270@cumc.columbia.edu)
 
-# Research Interests
+# My Research Interests
 * Statistical Genetics and Genomics
 * Biological Network Analysis
 * Functional Genome/Annotation Analysis.
