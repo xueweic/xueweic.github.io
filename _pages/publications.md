@@ -9,7 +9,7 @@ author_profile: true
 
 ## \[2023+\]
 
-* **<u>Cao, X.</u>**, Zhang, S., & Sha, Q.\* (2023+). A novel method for multiple phenotype association studies based on genotype and phenotype network. *Submitted in August 2023*. [bioRxiv](https://doi.org/10.1101/2023.02.23.529687) and [software](https://github.com/xueweic/GPN)
+* **<u>Cao, X.</u>**, Zhang, S., & Sha, Q.\* (2023+). A novel method for multiple phenotype association studies based on genotype and phenotype network. *Submitted in August 2023*. [bioRxiv](https://doi.org/10.1101/2023.02.23.529687) [software](https://github.com/xueweic/GPN)
 
 * **<u>Cao, X.</u>**\#, Keyak, J.H.\#, Sigurdsson, S., Zhao, C., Zhou, W., Liu, A., Lang, T.F., Deng, H.W., Guðnason, V.\* and Sha, Q.\* (2023+). A New Hip Fracture Risk Index Derived from FEA-Computed Proximal Femur Fracture Loads and Energies-to-Failure. *In revision at Osteoporosis International*. [arXiv](https://arxiv.org/abs/2210.01032)
 
