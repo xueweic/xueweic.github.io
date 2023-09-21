@@ -23,4 +23,4 @@ I received my Ph.D. in statistics from Department of Mathematical Sciences at Mi
 * Machine Learning
 
 # Email: 
-[Contact me](mailto:xc2270@cumc.columbia.edu)
+[xc2270@cumc.columbia.edu](mailto:xc2270@cumc.columbia.edu)
