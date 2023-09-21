@@ -38,3 +38,8 @@ Mathematical Statistics II (MA5712), Spring 2019
 * Outstanding graduates of Beijing City and Beijing Normal University, June 2018
 * Outstanding graduates of Heilongjiang University, June 2015
   
+Research Experience
+======
+* Research Assistant at Michigan Technological University, Aug. 2018 - Apr. 2023, working with Prof. Qiuying Sha.
+* Research Intern at Michigan Technological University, Summer 2021, working with Prof. Hairong Wei.
+* Research Visiting Scholar at Arizona State University, Jan. 2018 - Feb. 2018, working with Prof. Sander E. van der Leeuw
