@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-"images/welcome.png"
+![Drag Racing](images/welcome.png)
 
 
 I am Xuewei Cao (She/Her), a postdoctoral research scientist at Center for Statistical Genetics in the Gertrude H. Sergievsky Center and Department of Neurology at Columbia University under supervisions of [Dr. Gao Wang](https://wanggroup.org/) and co-mentored by [Dr. Kushal K Dey](https://www.mskcc.org/research/ski/labs/kushal-dey) from Memorial Sloan Kettering Cancer Center (MSK).
