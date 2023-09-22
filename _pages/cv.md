@@ -19,7 +19,7 @@ Department of Neurology, Columbia University\\
 
 Education
 ======
-* Ph.D in Statistics, Michigan Technological University, April 2023
+* Ph.D in Statistics, Michigan Technological University, April 2023\\
 **Research direction**: Statistical Genetics, Biological Network
 * M.S. in System Theory, Beijing Normal University, June 2018
 * B.S. in Statistics, Heilongjiang University, June 2015
