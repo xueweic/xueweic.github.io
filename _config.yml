@@ -76,7 +76,7 @@ analytics:
   provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : G-EKBF27Z2ZJ
-
+google_analytics: G-EKBF27Z2ZJ
 
 # Site Author
 author:
