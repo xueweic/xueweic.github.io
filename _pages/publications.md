@@ -16,6 +16,7 @@ author_profile: true
 * Zhao, C., Liu, A., Zhang, X., **<u>Cao, X.</u>**, Ding, Z., Sha, Q., Shen, H., Deng, H.W.\* & Zhou, W.\* CLCLSA: Cross-omics Linked embedding with Contrastive Learning and Self Attention for multi-omics integration with incomplete multi-omics data. 2023+. *Submitted in August 2023*. [arXiv](https://arxiv.org/abs/2304.05542)
 * **<u>Cao, X.</u>**\#, Zhu, L.\#, Liang, X., Zhang, S. & Sha, Q.\* (2023+). Constructing genotype and phenotype network helps reveal disease heritability and phenome-wide association studies. *Will be submitted soon* [software](https://github.com/xueweic/GPN)
 * Zhu, L., Yan, S., **<u>Cao, X.</u>**, Sha, Q. & Zhang, S.\* (2023+). Integrating external controls by regression calibration for genome-wide association study. *Will be submitted soon*
+* Zhao, C.\#, Su, K.\#, Wu, C., **<u>Cao, X.</u>**, Sha, Q., Li, W., Luo, Z., Qin, T., Qiu, C., Liu, A., Jiang, L., Zhang, X., Shen, H., Deng, H.W.\* & Zhou, W.\* (2023+). Multi-View Variational Autoencoder for Missing Value Imputation in Untargeted Metabolomics. *Will be submitted soon*
 
 ## \[2023\]
 * **<u>Cao, X.</u>**\#, Zhang, L.\#, Islam, M.K., Zhao, M., He, C., Zhang, K., Liu, S., Sha, Q.\* & Wei, H.\*, (2023). TGPred: efficient methods for predicting target genes of a transcription factor by integrating statistics, machine learning and optimization. *NAR Genomics and Bioinformatics*, 5(3), p.lqad083. [doi](https://doi.org/10.1093/nargab/lqad083)
