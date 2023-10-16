@@ -1,13 +1,10 @@
 ---
 layout: archive
 title: "Research Projects"
-permalink: /
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 ## \[Biological Network Analysis\]
 
-![Alt](images/Biological_Network.png)
+![Drag Racing](../images/Biological_Network.png)
