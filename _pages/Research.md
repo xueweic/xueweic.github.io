@@ -7,4 +7,4 @@ author_profile: true
 
 ## \[Biological Network Analysis\]
 
-![Drag Racing](images/Biological_Network.png)
+![Alt](images/Biological_Network.png)
