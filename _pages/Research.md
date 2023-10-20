@@ -5,6 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## \[Biological Network Analysis\]
+## 1. Biological Network Analysis
 
-![Drag Racing](../images/Biological_Network.png)
+<img src="../images/Biological_Network.png" alt="Drag Racing" width="500"/>
