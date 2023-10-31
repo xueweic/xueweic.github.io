@@ -13,8 +13,7 @@ You can download CV from [here](/files/CV_Xuewei.pdf) (Updated in Sep. 2023).
 Professional Appointment
 ======
 * Postdoctoral Research Scientist \\
-Center for Statistical Genetics in the Gertrude H. Sergievsky Center\\
-Department of Neurology, Columbia University\\
+Center for Statistical Genetics in the Gertrude H. Sergievsky Center, Columbia University\\
 **Research direction**: Fine-mapping and colocalization analysis, *trans*-QTL network analysis
 
 Education
