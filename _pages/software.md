@@ -14,3 +14,6 @@ R and Python software including six efficient methods for predicting target gene
 
 ## [Python/CLCLSA](https://github.com/xueweic/CLCLSA)
 A deep learning method for multi-omics integration with incomplete data by Cross-omics Linked unified embedding with Contrastive Learning and Self Attention (CLCLSA). Utilizing complete multi-omics data as supervision, the model uses cross-omics autoencoders to learn the feature representation across different types of biological data. The multi-view contrastive learning, which is used to maximize the mutual information between different types of omics, is employed before latent feature concatenation. Also, the feature-level self-attention and omics-level self-attention are employed to dynamically select the most informative features for multi-omics data integration. 
+
+## ColocBoost (Ongoing, will release soon)
+A new gradient boosting informed multi-omics colocalization method improves the discovery of molecular quantitative trait loci for complex diseases. Colocalization analysis has emerged as a powerful tool to integrate GWAS signals with the molecular QTL studies in identifying putative causal variants in a genomic region of interest, where the findings yield insights into the molecular pathways of the complex diseases. 
