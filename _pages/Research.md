@@ -12,4 +12,4 @@ author_profile: true
 
 ## 2.Multi-omics colocalization analysis
 
-![Drag Racing](../images/ColocBoost.jpg)
+<!-- ![Drag Racing](../images/ColocBoost.jpg) --> 
