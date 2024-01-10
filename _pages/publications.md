@@ -13,6 +13,8 @@ author_profile: true
 * **<u>Cao, X.</u>**\#, Zhu, L.\#, Liang, X., Zhang, S. & Sha, Q.\* (2023+). Constructing genotype and phenotype network helps reveal disease heritability and phenome-wide association studies. *Submitted in October 2023*. [medRxiv](https://www.medrxiv.org/content/10.1101/2023.11.14.23297400v1) [software](https://github.com/xueweic/GPN)
 * Zhao, C., Liu, A., Zhang, X., **<u>Cao, X.</u>**, Ding, Z., Sha, Q., Shen, H., Deng, H.W.\* & Zhou, W.\* CLCLSA: Cross-omics Linked embedding with Contrastive Learning and Self Attention for multi-omics integration with incomplete multi-omics data. (2023+). *Submitted in August 2023*. [arXiv](https://arxiv.org/abs/2304.05542)
 * Zhao, C.\#, Su, K.\#, Wu, C., **<u>Cao, X.</u>**, Sha, Q., Li, W., Luo, Z., Qin, T., Qiu, C., Liu, A., Jiang, L., Zhang, X., Shen, H., Deng, H.W.\* & Zhou, W.\* (2023+). Multi-View Variational Autoencoder for Missing Value Imputation in Untargeted Metabolomics. *Submitted in October 2023*. [arXiv](https://arxiv.org/abs/2310.07990)
+* Qi, Z., Pelletier, A., Willwerscheid, J. **<u>Cao, X.</u>**, Wen, X., Cruchaga, C., De Jager, P.L., TCW, J. \& Wang, G., (2023+). Novel Missing Data Imputation Approaches Enhance Quantitative Trait Loci Discovery in Multi-Omics Analysis. *Preprinted in November 2023*. [medRxiv](https://doi.org/10.1101/2023.11.29.23299181)
+
 
 ## \[2024\]
 * **<u>Cao, X.</u>**\#, Keyak, J.H.\#, Sigurdsson, S., Zhao, C., Zhou, W., Liu, A., Lang, T.F., Deng, H.W., Guðnason, V.\* & Sha, Q.\* (2023+). A New Hip Fracture Risk Index Derived from FEA-Computed Proximal Femur Fracture Loads and Energies-to-Failure. *Osteoporosis International*. Accepted. [arXiv](https://arxiv.org/abs/2210.01032)
