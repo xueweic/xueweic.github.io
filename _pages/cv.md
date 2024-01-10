@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can download CV from [here](/files/CV_Xuewei.pdf) (Updated in Sep. 2023).
+You can download CV from [here](/files/CV_Xuewei.pdf) (Updated in Jan. 2024).
 
 {% include base_path %}
 
