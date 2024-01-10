@@ -10,7 +10,7 @@ author_profile: true
 ## \[2024+\]
 
 * **<u>Cao, X.</u>**, Zhang, S., & Sha, Q.\* (2023+). A novel method for multiple phenotype association studies based on genotype and phenotype network. *In revision at PLoS Genetics*. [bioRxiv](https://doi.org/10.1101/2023.02.23.529687) [software](https://github.com/xueweic/GPN)
-* **<u>Cao, X.</u>**\#, Zhu, L.\#, Liang, X., Zhang, S. & Sha, Q.\* (2023+). Constructing genotype and phenotype network helps reveal disease heritability and phenome-wide association studies. *Submitted in October 2023*. [software](https://github.com/xueweic/GPN)
+* **<u>Cao, X.</u>**\#, Zhu, L.\#, Liang, X., Zhang, S. & Sha, Q.\* (2023+). Constructing genotype and phenotype network helps reveal disease heritability and phenome-wide association studies. *Submitted in October 2023*. [medRxiv](https://www.medrxiv.org/content/10.1101/2023.11.14.23297400v1) [software](https://github.com/xueweic/GPN)
 * Zhao, C., Liu, A., Zhang, X., **<u>Cao, X.</u>**, Ding, Z., Sha, Q., Shen, H., Deng, H.W.\* & Zhou, W.\* CLCLSA: Cross-omics Linked embedding with Contrastive Learning and Self Attention for multi-omics integration with incomplete multi-omics data. (2023+). *Submitted in August 2023*. [arXiv](https://arxiv.org/abs/2304.05542)
 * Zhao, C.\#, Su, K.\#, Wu, C., **<u>Cao, X.</u>**, Sha, Q., Li, W., Luo, Z., Qin, T., Qiu, C., Liu, A., Jiang, L., Zhang, X., Shen, H., Deng, H.W.\* & Zhou, W.\* (2023+). Multi-View Variational Autoencoder for Missing Value Imputation in Untargeted Metabolomics. *Submitted in October 2023*. [arXiv](https://arxiv.org/abs/2310.07990)
 
@@ -24,7 +24,7 @@ author_profile: true
 * Xie, H., **<u>Cao, X.</u>**, Zhang, S. & Sha, Q. (2023+). Joint analysis of multiple phenotypes for extremely unbalanced case-control association studies using multi-layer network. *Bioinformatics*. 39(12), btad707. [doi](https://doi.org/10.1093/bioinformatics/btad707)
 * Wang, M., **<u>Cao, X.</u>**, Zhang, S. & Sha, Q.\* (2023). A clustering linear combination method for multiple phenotype association studies based on GWAS summary statistics. *Scientific Reports*. 13(1), p.3389. [doi](https://www.nature.com/articles/s41598-023-30415-3)
 * Xie, H., **<u>Cao, X.</u>**, Zhang, S. & Sha, Q.\* (2023). Joint analysis of multiple phenotypes for extremely unbalanced case-control association studies. *Genetic Epidemiology*. 47(2), pp.185-197. [doi](https://doi.org/10.1002/gepi.22513)
-* Zhao, C.\#, Keyak, J.H.\#, **<u>Cao, X.</u>**, Sha, Q., Wu, L., Luo, Z., Zhao, L., Tian, Q., Qiu, C., Su, R., Shen, H., Deng, H.W.\* & Zhou, W.\* (2023). Multi-view information fusion using multi-view variational autoencoders to predict proximal femoral strength. *Frontiers in Endocrinology, section Bone Research*. [arXiv](https://arxiv.org/abs/2210.00674)
+* Zhao, C.\#, Keyak, J.H.\#, **<u>Cao, X.</u>**, Sha, Q., Wu, L., Luo, Z., Zhao, L., Tian, Q., Qiu, C., Su, R., Shen, H., Deng, H.W.\* & Zhou, W.\* (2023). Multi-view information fusion using multi-view variational autoencoders to predict proximal femoral strength. *Frontiers in Endocrinology, section Bone Research*. [doi](https://doi.org/10.3389/fendo.2023.1261088)
 
 ## \[2022\]
 * **<u>Cao, X.</u>**, Liang, X., Zhang, S. & Sha, Q.\* (2022). Gene selection by incorporating genetic networks into case-control association studies. *European Journal of Human Genetics*. [doi](https://www.nature.com/articles/s41431-022-01264-x)
