@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+*  A new gradient boosting informed colocalization algorithm improves the identification of functional disease causal variants. [ICSA 2024 Applied Statistics Symposium (ICSA 2024)](https://symposium2024.icsa.org/), Tennessee, Jun.18, 2024
+* Novel statistical approaches for multi-modal cis- and trans-xQTL data integration informs genetic architecture of complex diseases. [Conference on Statistics in Genomics and Genentics (STATGEN 2024)](https://www.sph.pitt.edu/statgen-2024-conference-statistics-genomics-and-genetics), Pittsburgh, Pennsylvania, May.1, 2024
 * A new gradient boosting informed multi-omics colocalization method improves the discovery of molecular quantitative trait loci for complex diseases.[13th Annual Taub Institute Retreat](http://www.columbianeuroresearch.org/taub/images/events/Taub-2023-Research-Retreat.pdf), New York City, NY, Nov. 2023
 * COLOC-Boost: A new gradient boosting informed colocalization algorithm improves the identification of functional disease causal variants.
 [American Society of Human Genetics (ASHG) 2023](https://www.ashg.org/meetings/2023meeting/attendees/registration/?gclid=CjwKCAjwsKqoBhBPEiwALrrqiLs3U3r6tlx8_2is2t_wgmJsKYpxIf7HHjbYNg3SaeehJDjqhaEB2xoCWgkQAvD_BwE), Washington, DC, Nov. 2023

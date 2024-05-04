@@ -14,6 +14,7 @@ Professional Appointment
 ======
 * Postdoctoral Research Scientist \\
 Center for Statistical Genetics in the Gertrude H. Sergievsky Center, Columbia University\\
+Computational \& Systems Biology Program, Memorial Sloan Kattering Cancer Center\\
 **Research direction**: Fine-mapping and colocalization analysis, *trans*-QTL network analysis
 
 Education
