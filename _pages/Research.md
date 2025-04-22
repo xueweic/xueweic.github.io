@@ -14,7 +14,7 @@ ColocBoost, a multi-trait colocalization analysis, i) accommodates multiple vari
 - Tutorials: [https://statfungen.github.io/colocboost/](https://statfungen.github.io/colocboost/)
 
 
-![Drag Racing](../images/Figure1.pdf)
+![Drag Racing](../images/Figure1.png)
 
 ## 2.Biological Network Analysis
 
