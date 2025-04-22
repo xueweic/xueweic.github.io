@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
 ### Calculus with Technology I (Fall 2021)
 Teaching Assistant, Mentored by Ann M. Humes and Prof. John Gruver.
 - Prepare for four weeks course materials of Precalculus, such as lecture videos, handouts, WebAssign assignments.

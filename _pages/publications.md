@@ -7,17 +7,21 @@ author_profile: true
 
 \# denote co-first author; \* denote the corresponding author.
 
-## \[2024+\]
+## \[2025+\]
 
-* **<u>Cao, X.</u>**\#, Zhu, L.\#, Liang, X., Zhang, S. & Sha, Q.\* (2024+). Constructing genotype and phenotype network helps reveal disease heritability and phenome-wide association studies. *Submitted in October 2023*. [medRxiv](https://www.medrxiv.org/content/10.1101/2023.11.14.23297400v1) [software](https://github.com/xueweic/GPN)
-* Zhao, C.\#, Su, K.\#, Wu, C., **<u>Cao, X.</u>**, Sha, Q., Li, W., Luo, Z., Qin, T., Qiu, C., Liu, A., Jiang, L., Zhang, X., Shen, H., Deng, H.W.\* & Zhou, W.\* (2024+). Multi-View Variational Autoencoder for Missing Value Imputation in Untargeted Metabolomics. *Submitted in October 2023*. [arXiv](https://arxiv.org/abs/2310.07990)
-* Qi, Z., Pelletier, A., Willwerscheid, J. **<u>Cao, X.</u>**, Wen, X., Cruchaga, C., De Jager, P.L., TCW, J.\* & Wang, G.\* (2024+). Novel Missing Data Imputation Approaches Enhance Quantitative Trait Loci Discovery in Multi-Omics Analysis. *Preprinted in November 2023*. [medRxiv](https://doi.org/10.1101/2023.11.29.23299181)
+*   **<u>Cao, X.</u>**, Sun, H., Feng, R., Mazumder, R., Najar, C., Li, Y. I., de Jager, P. L., The Alzheimer's Disease Functional Genomics Consortium, Dey, K. K., \& Wang, G. (2025+). Integrative multi-omics QTL colocalization maps the regulatory architecture in the aging human brain. *Submitted in April 2025*. [medRxiv](https://www.medrxiv.org/content/10.1101/2025.04.17.25326042v1) [software](https://github.com/StatFunGen/colocboost) [tutorials](https://statfungen.github.io/colocboost/)
+* **<u>Cao, X.</u>**\#, Zhu, L.\#, Liang, X., Zhang, S. & Sha, Q.\* (2025+). Constructing genotype and phenotype network helps reveal disease heritability and phenome-wide association studies. *Submitted in October 2023*. [medRxiv](https://www.medrxiv.org/content/10.1101/2023.11.14.23297400v1) [software](https://github.com/xueweic/GPN)
+* Subedi, M\#,  **<u>Cao, X.</u>**\#, Kim, B. & Sha, Q.\* (2025+). Network construction using Sparse Gaussian Graphical Model
+based on GWAS summary statistics. *Submitted in January 2025*. [preprint](https://www.researchsquare.com/article/rs-6026484/v1)
+* Qi, Z., Pelletier, A., Willwerscheid, J. **<u>Cao, X.</u>**, Wen, X., Cruchaga, C., De Jager, P.L., TCW, J.\* & Wang, G.\* (2025+). Novel Missing Data Imputation Approaches Enhance Quantitative Trait Loci Discovery in Multi-Omics Analysis. *Preprinted in November 2023*. [medRxiv](https://doi.org/10.1101/2023.11.29.23299181)
+* Buen Abad Najar, C. F.\#, Feng, R.\#, Dai, C.\#, Fair, B., Hauck, Q., Li, J., **<u>Cao, X.</u>**, Dey, K. K., De Jager, P., Bennett, D., The Alzheimer’s Disease Sequencing Project Functional Genomics Consortium, Liu, X., Wang, G., \& Li, Y. I. (2025+). Genetic and functional analysis of unproductive splicing using LeafCutter2. *Submitted in April 2025*. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.04.06.646893v1)
 
 
 ## \[2024\]
 * **<u>Cao, X.</u>**, Zhang, S., & Sha, Q.\* (2024). A novel method for multiple phenotype association studies based on genotype and phenotype network. *PLoS Genetics*. Accepted. [bioRxiv](https://doi.org/10.1101/2023.02.23.529687) [software](https://github.com/xueweic/GPN)
 * **<u>Cao, X.</u>**\#, Keyak, J.H.\#, Sigurdsson, S., Zhao, C., Zhou, W., Liu, A., Lang, T.F., Deng, H.W., Guðnason, V.\* & Sha, Q.\* (2024). A New Hip Fracture Risk Index Derived from FEA-Computed Proximal Femur Fracture Loads and Energies-to-Failure. *Osteoporosis International*. 35, 785–794. [doi](https://link.springer.com/article/10.1007/s00198-024-07015-6)
 * Zhu, L., Yan, S., **<u>Cao, X.</u>**, Sha, Q. & Zhang, S.\* (2024). Integrating external controls by regression calibration for genome-wide association study. *Genes*. 15(1), 67. [doi](https://doi.org/10.3390/genes15010067)
+* Zhao, C.\#, Su, K.\#, Wu, C., **<u>Cao, X.</u>**, Sha, Q., Li, W., Luo, Z., Qin, T., Qiu, C., Liu, A., Jiang, L., Zhang, X., Shen, H., Deng, H.W.\* & Zhou, W.\* (2024+). Multi-View Variational Autoencoder for Missing Value Imputation in Untargeted Metabolomics. *Computers in biology and medicine*. 179, p.108813. [doi](https://www.sciencedirect.com/science/article/pii/S0010482524008989)
 * Zhao, C., Liu, A., Zhang, X., **<u>Cao, X.</u>**, Ding, Z., Sha, Q., Shen, H., Deng, H.W.\* & Zhou, W.\* CLCLSA: Cross-omics Linked embedding with Contrastive Learning and Self Attention for multi-omics integration with incomplete multi-omics data. (2024). *Computers in Biology and Medicine*. [doi](https://doi.org/10.1016/j.compbiomed.2024.108058)
 
 
