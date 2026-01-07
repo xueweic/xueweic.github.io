@@ -16,7 +16,9 @@ This R package implements ColocBoost---motivated and designed for colocalization
 A novel method for multiple phenotype association studies by constructing a bipartite signed network, linking phenotypes and genotypes into a Genotype and Phenotype Network (GPN), which is a new insight to investigate correlation among phenotypes. The GPN can be constructed by both quantitative and qualitative traits, especially phenotypes have extremely unbalanced case-control ratios.
 
 ## [R/Spacelink](https://github.com/hanbyul-lee/spacelink)
-This R package implements Spacelink, a unified statistical framework for detecting and prioritizing spatially variable genes (SVGs) at both global tissue and cell-type resolution. Spacelink employs an adaptive multi-kernel model to capture spatial variance across diverse length scales, and its cell-type specific version introduces a data-driven gating strategy to correct for spatial colocalization, designed to improve the specificity for cell types that are weakly represented in mixed spots relative to more abundant colocalizing cell types. To summarize spatial variability, we define Effective Spatial Variability (ESV), a metric which integrates variance magnitude of each component kernel and its corresponding spatial scale into a single interpretable score directly suited for genetic analyses.
+This R package implements Spacelink, a statistical framework for detecting spatially variable genes (SVGs) at global tissue and cell-type resolution. It uses an adaptive multi-kernel model to capture spatial variance across multiple scales. The cell-type version employs a gating strategy to correct for spatial colocalization, improving specificity for weakly represented cell types. Spatial variability is summarized via Effective Spatial Variability (ESV), a metric integrating variance magnitude and spatial scale into a single interpretable score. For detailed tutorials and use cases in [Tutorials](https://hanbyul-lee.github.io/spacelink/).
+
+![Drag Racing](../images/spacelink_schematic.png)
 
 
 ## [R/TGPred](https://github.com/xueweic/TGPred) and [Python/TGPred](https://github.com/tobefuture/TGPred)
