@@ -24,9 +24,9 @@ author_profile: true
 
 
 ## Statistical Genetics (methodology)
+* **<u>Cao, X.</u>**\#, Zhang, L.\#, Islam, M.K., Zhao, M., He, C., Zhang, K., Liu, S., Sha, Q.\* & Wei, H.\*, (2023). TGPred: efficient methods for predicting target genes of a transcription factor by integrating statistics, machine learning and optimization. *NAR Genomics and Bioinformatics*, 5(3), p.lqad083. [doi](https://doi.org/10.1093/nargab/lqad083) [software](https://github.com/xueweic/TGPred)
 * **<u>Cao, X.</u>**, Wang, X., Zhang, S. & Sha, Q.\* (2022). Gene-based association tests using GWAS summary statistics and incorporating eQTL. *Scientific Reports*. 12(1):3553. [doi](https://www.nature.com/articles/s41598-022-07465-0)
 * **<u>Cao, X.</u>**, Liang, X., Zhang, S. & Sha, Q.\* (2022). Gene selection by incorporating genetic networks into case-control association studies. *European Journal of Human Genetics*. [doi](https://www.nature.com/articles/s41431-022-01264-x)
-* **<u>Cao, X.</u>**\#, Zhang, L.\#, Islam, M.K., Zhao, M., He, C., Zhang, K., Liu, S., Sha, Q.\* & Wei, H.\*, (2023). TGPred: efficient methods for predicting target genes of a transcription factor by integrating statistics, machine learning and optimization. *NAR Genomics and Bioinformatics*, 5(3), p.lqad083. [doi](https://doi.org/10.1093/nargab/lqad083) [software](https://github.com/xueweic/TGPred)
 * Subedi, M\#,  **<u>Cao, X.</u>**\#, Kim, B. & Sha, Q.\* (2025). Network construction using Sparse Gaussian Graphical Model based on GWAS summary statistics. *Scientific Reports*, 15(1), 38601. [doi](https://doi.org/10.1038/s41598-025-22475-4)
 * Zhu, L., Yan, S., **<u>Cao, X.</u>**, Sha, Q. & Zhang, S.\* (2024). Integrating external controls by regression calibration for genome-wide association study. *Genes*. 15(1), 67. [doi](https://doi.org/10.3390/genes15010067)
 * Xie, H., **<u>Cao, X.</u>**, Zhang, S. & Sha, Q. (2023). Joint analysis of multiple phenotypes for extremely unbalanced case-control association studies using multi-layer network. *Bioinformatics*. 39(12), btad707. [doi](https://doi.org/10.1093/bioinformatics/btad707)
