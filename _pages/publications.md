@@ -23,7 +23,7 @@ author_profile: true
 * Qi, Z., Pelletier, A., Willwerscheid, J. **<u>Cao, X.</u>**, Wen, X., Cruchaga, C., De Jager, P.L., TCW, J.\* & Wang, G.\* (2026+). Novel Missing Data Imputation Approaches Enhance Quantitative Trait Loci Discovery in Multi-Omics Analysis. *Preprinted in November 2023*. [medRxiv](https://doi.org/10.1101/2023.11.29.23299181)
 
 
-## Statistical Genetics (methodology)
+## Statistical Genetics
 * **<u>Cao, X.</u>**\#, Zhang, L.\#, Islam, M.K., Zhao, M., He, C., Zhang, K., Liu, S., Sha, Q.\* & Wei, H.\*, (2023). TGPred: efficient methods for predicting target genes of a transcription factor by integrating statistics, machine learning and optimization. *NAR Genomics and Bioinformatics*, 5(3), p.lqad083. [doi](https://doi.org/10.1093/nargab/lqad083) [software](https://github.com/xueweic/TGPred)
 * **<u>Cao, X.</u>**, Wang, X., Zhang, S. & Sha, Q.\* (2022). Gene-based association tests using GWAS summary statistics and incorporating eQTL. *Scientific Reports*. 12(1):3553. [doi](https://www.nature.com/articles/s41598-022-07465-0)
 * **<u>Cao, X.</u>**, Liang, X., Zhang, S. & Sha, Q.\* (2022). Gene selection by incorporating genetic networks into case-control association studies. *European Journal of Human Genetics*. [doi](https://www.nature.com/articles/s41431-022-01264-x)
