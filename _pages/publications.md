@@ -35,18 +35,13 @@ author_profile: true
 * Liang, X.,  **<u>Cao, X.</u>**, Sha, Q. & Zhang, S.\* (2022). HCLC-FC: a Novel Statistical Method for Phenome-Wide Association Studies. *PLOS ONE*. 17(11): e0276646. [doi](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276646)
 
 
-
-## Statistical Genetics (multi-omics analysis)
-* Zhao, C.\#, Su, K.\#, Wu, C., **<u>Cao, X.</u>**, Sha, Q., Li, W., Luo, Z., Qin, T., Qiu, C., Liu, A., Jiang, L., Zhang, X., Shen, H., Deng, H.W.\* & Zhou, W.\* (2024). Multi-View Variational Autoencoder for Missing Value Imputation in Untargeted Metabolomics. *Computers in biology and medicine*. 179, p.108813. [doi](https://www.sciencedirect.com/science/article/pii/S0010482524008989)
-* Zhao, C., Liu, A., Zhang, X., **<u>Cao, X.</u>**, Ding, Z., Sha, Q., Shen, H., Deng, H.W.\* & Zhou, W.\* CLCLSA: Cross-omics Linked embedding with Contrastive Learning and Self Attention for multi-omics integration with incomplete multi-omics data. (2024). *Computers in Biology and Medicine*. [doi](https://doi.org/10.1016/j.compbiomed.2024.108058)
-* Zhao, C.\#, Keyak, J.H.\#, **<u>Cao, X.</u>**, Sha, Q., Wu, L., Luo, Z., Zhao, L., Tian, Q., Qiu, C., Su, R., Shen, H., Deng, H.W.\* & Zhou, W.\* (2023). Multi-view information fusion using multi-view variational autoencoders to predict proximal femoral strength. *Frontiers in Endocrinology, section Bone Research*. [doi](https://doi.org/10.3389/fendo.2023.1261088)
-
-
-
 ## Collaborative Research
 * **<u>Cao, X.</u>**\#, Keyak, J.H.\#, Sigurdsson, S., Zhao, C., Zhou, W., Liu, A., Lang, T.F., Deng, H.W., Guðnason, V.\* & Sha, Q.\* (2024). A New Hip Fracture Risk Index Derived from FEA-Computed Proximal Femur Fracture Loads and Energies-to-Failure. *Osteoporosis International*. 35, 785–794. [doi](https://link.springer.com/article/10.1007/s00198-024-07015-6)
 * Boby, N.\#, **<u>Cao, X.</u>**\#, Williams, K., Gadila, S.K.G., Shroyer, M.N., Didier, P.J., Srivastav, S.K., Das, A., Baker, K., Sha, Q. & Pahar, B.\* (2022). Simian Immunodeficiency Virus Infection Mediated Changes in Jejunum and Peripheral SARS-CoV-2 Receptor ACE2 and Associated Proteins or Genes in Rhesus Macaques. *Frontiers in Immunology*. 13, p.835686. [doi](https://www.frontiersin.org/articles/10.3389/fimmu.2022.835686/full)
 * Boby, N.\#, **<u>Cao, X.</u>**\#, Ransom, A., Pace, B.T., Mabee, C., Shroyer, M.N., Das, A., Didier, P.J., Srivastav, S.K., Porter, E., Sha, Q. & Pahar, B.\* (2021) Identification, Characterization, and Transcriptional Reprogramming of Epithelial Stem Cells and Intestinal Enteroids in Simian Immunodeficiency Virus Infected Rhesus Macaques. *Frontiers in Immunology*. 12, p.769990. [doi](https://www.frontiersin.org/articles/10.3389/fimmu.2021.769990/full)
+* Zhao, C.\#, Su, K.\#, Wu, C., **<u>Cao, X.</u>**, Sha, Q., Li, W., Luo, Z., Qin, T., Qiu, C., Liu, A., Jiang, L., Zhang, X., Shen, H., Deng, H.W.\* & Zhou, W.\* (2024). Multi-View Variational Autoencoder for Missing Value Imputation in Untargeted Metabolomics. *Computers in biology and medicine*. 179, p.108813. [doi](https://www.sciencedirect.com/science/article/pii/S0010482524008989)
+* Zhao, C., Liu, A., Zhang, X., **<u>Cao, X.</u>**, Ding, Z., Sha, Q., Shen, H., Deng, H.W.\* & Zhou, W.\* CLCLSA: Cross-omics Linked embedding with Contrastive Learning and Self Attention for multi-omics integration with incomplete multi-omics data. (2024). *Computers in Biology and Medicine*. [doi](https://doi.org/10.1016/j.compbiomed.2024.108058)
+* Zhao, C.\#, Keyak, J.H.\#, **<u>Cao, X.</u>**, Sha, Q., Wu, L., Luo, Z., Zhao, L., Tian, Q., Qiu, C., Su, R., Shen, H., Deng, H.W.\* & Zhou, W.\* (2023). Multi-view information fusion using multi-view variational autoencoders to predict proximal femoral strength. *Frontiers in Endocrinology, section Bone Research*. [doi](https://doi.org/10.3389/fendo.2023.1261088)
 
 
 
