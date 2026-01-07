@@ -14,7 +14,7 @@ Professional Appointment
 ======
 * Postdoctoral Research Scientist \\
 Center for Statistical Genetics in the Gertrude H. Sergievsky Center, Columbia University\\
-Computational & Systems Biology Program, Memorial Sloan Kattering Cancer Center\\
+Computational & Systems Biology Program, Memorial Sloan Kettering Cancer Center\\
 **Research direction**: Fine-mapping and colocalization analysis, *trans*-QTL network analysis
 
 Education
@@ -27,6 +27,8 @@ Education
 
 Award
 ======
+* Best Flash Talk with Poster Presentation Award to the Asian Student Council Symposium 2025 (ASCS2025), Fall 2025
+* Represent Michigan Tech as one of two nominees for the Mathematics, Physical Sciences, and Engineering field for the CGS/ProQuest Distinguished Dissertation Award, Summer 2024
 * Outstanding Scholarship Award,  Spring 2023
 * Doctoral Finishing Fellowship, Spring 2023
 * Portage Health Foundation (PHF) Graduate Assistantship, Fall 2022
